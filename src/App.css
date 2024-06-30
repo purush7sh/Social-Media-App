@@ -1,0 +1,27 @@
+.app-container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  margin-bottom: 230px;
+  max-height: 600px;
+}
+
+.crpost {
+  margin-left: 100px;
+  margin-top: 100px;
+  width: 55%;
+}
+.post-card {
+  min-width: 30rem;
+  margin: 20px 50px;
+}
+.hashtag {
+  margin: 0px 3px;
+}
+.reaction {
+  width: 100%;
+  margin: 15px 0 0;
+}
